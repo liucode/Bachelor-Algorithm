@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1427127126 source:d:\°²×°³ÌÐò\my c\keng\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+	<vector>
+
+1448428288 source:d:\my c\keng\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<malloc.h>
+	<queue>
+	<cmath>
+	<ctime>
+
+1439166530 source:d:\my c\keng\triejing.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<algorithm>
+	<map>
+
+1448536333 source:c:\users\administrator\desktop\keng\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<malloc.h>
+	<queue>
+	<cmath>
+	<ctime>
+

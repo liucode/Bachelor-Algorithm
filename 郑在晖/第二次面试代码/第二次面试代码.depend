@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1448366965 source:c:\users\在晖_2\desktop\第二次面试代码\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<queue>
+
