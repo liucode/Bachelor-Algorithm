@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449250578 source:c:\users\在晖_2\desktop\第四次代码\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<map>
+	<vector>
+

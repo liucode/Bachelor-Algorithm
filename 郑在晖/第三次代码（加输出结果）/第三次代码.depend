@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449194704 source:c:\users\在晖_2\desktop\第三次代码（加输出结果）\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<map>
+
