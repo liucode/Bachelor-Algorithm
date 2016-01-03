@@ -27,10 +27,10 @@ void func(char *data,int key,int len)//迭代的求解
 	{
 		for(int k=0;k<len;k++)
 		{
-			//printf("%c",data[k]);
+			printf("%c",data[k]);
 		}
 					count++;
-		//printf("\n");
+		printf("\n");
 		
 	}
 	for(int i=key;i<len;i++)
@@ -65,7 +65,7 @@ void funco(char *outdata,int outlen,char *data,int datalen)
 	{
 		for(int k=0;k<datalen;k++)
 		{
-		//	printf("%c",outdata[k]);
+			printf("%c",outdata[k]);
 		}
 		outlen = 0;
 		printf("\n");
@@ -85,9 +85,8 @@ void funco(char *outdata,int outlen,char *data,int datalen)
 
 void main()
 {
-	char data[10]="123456789";
-	char out[10];
-	func(data,0,10);
+	char data[6]="12345";
+	func(data,0,5);
     //fp=fopen("1.txt","w");
 	//funco(out,0,data,9);
     printf("%lf\n",(double)clock()/CLOCKS_PER_SEC);
